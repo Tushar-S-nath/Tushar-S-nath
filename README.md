@@ -50,10 +50,15 @@
 </p>
 
 ---
+---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="60" height="60"/>
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60" height="60"/>
+  <marquee behavior="scroll" direction="left" scrollamount="8">
+    🐶🐾🐾🐱🐾🐾🐶🐾🐱🐾🐾🐶🐾🐾🐱🐾
+  </marquee>
 </p>
+
+> “Always coding. Never alone.” 🧑‍💻🐾
 
 ---
 
