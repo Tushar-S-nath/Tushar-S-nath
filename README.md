@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <span style="color:#00FFFF">Tushar Nath</span> 👋</h1>
-<h3 align="center">A passionate Computer Science student from India 🇮🇳</h3>
+<h3 align="center">A Computer Science student 
 
 ---
 
