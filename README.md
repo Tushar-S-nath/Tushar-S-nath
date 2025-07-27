@@ -11,7 +11,6 @@
   - 🌐 HTML, CSS, JS  
   - ⚙️ Flask (Backend + API integration)
 - 🧠 Interested in AI, Industrial Safety Systems, and Web Innovation  
-- 🎮 Also love games & storytelling (check out my YouTube projects!)
 
 ---
 
