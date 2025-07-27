@@ -52,13 +52,7 @@
 ---
 ---
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="8">
-    🐶🐾🐾🐱🐾🐾🐶🐾🐱🐾🐾🐶🐾🐾🐱🐾
-  </marquee>
-</p>
 
-> “Always coding. Never alone.” 🧑‍💻🐾
 
 ---
 
