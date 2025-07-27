@@ -55,7 +55,6 @@
 ### 🐶 + 🐱 Dog & Cat Tiny GIFs (No uploads needed)
 
 <p align="center">
-  <img src="https://i.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" alt="Dog GIF" width="100" />
   <img src="https://i.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat GIF" width="100" />
 </p>
 
