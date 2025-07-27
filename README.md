@@ -50,10 +50,6 @@
 </p>
 
 ---
----
-
-
-
----
-
-> 🧠 “Still learning. Still building. Still improving.” — *Tushar*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/dog_chasing_cat.gif" height="80" />
+</p>
