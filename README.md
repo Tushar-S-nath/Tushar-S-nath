@@ -1,6 +1,3 @@
-<!-- Banner (you can replace the link with any banner you like) -->
-<img src="https://i.imgur.com/MXbO2KD.gif" width="100%" />
-
 <h1 align="center">Hi, I'm <span style="color:#00FFFF">Tushar Nath</span> 👋</h1>
 <h3 align="center">A passionate Computer Science student from India 🇮🇳</h3>
 
@@ -54,9 +51,6 @@
 </p>
 
 ---
-
-### 🐾 A Cat and Dog Just for You!
-
 <p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="60" height="60"/>
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60" height="60"/>
