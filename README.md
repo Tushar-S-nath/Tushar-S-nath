@@ -34,7 +34,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharNath&theme=tokyonight" alt="GitHub Streaks" />
 </p>
 
 ---
